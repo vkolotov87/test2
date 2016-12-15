@@ -4,5 +4,6 @@ phpinfo();
 echo "Add some text";
 echo "Add some text";
 echo "Add some text";
+echo "Add some text";
 
 ?>
